@@ -51,6 +51,8 @@ jupyter notebook
 •	Incorporate external datasets for a more comprehensive analysis
 👥 Contributors
 Ibrahim Malhi
+Bethany Dhennin 
+Fariza Naeer 
 📜 License
 This project is licensed under the MIT License.
 
